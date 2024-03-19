@@ -8,4 +8,5 @@ __Topics:__
     - [Newton’s Law of Universal Gravitation](JUPYTER_NOTEBOOKS/newton_grav.ipynb) 
     - [Projectile Motion](JUPYTER_NOTEBOOKS/projectile_motion.ipynb) 
     - [Bar Chart](JUPYTER_NOTEBOOKS/barchart.ipynb) 
+- [Describing Data with Statistics](JUPYTER_NOTEBOOKS/statistics.ipynb) 
 
