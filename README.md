@@ -9,4 +9,5 @@ __Topics:__
     - [Projectile Motion](JUPYTER_NOTEBOOKS/projectile_motion.ipynb) 
     - [Bar Chart](JUPYTER_NOTEBOOKS/barchart.ipynb) 
 - [Describing Data with Statistics](JUPYTER_NOTEBOOKS/statistics.ipynb) 
+	- [Frequency Table](JUPYTER_NOTEBOOKS/frequency_table.ipynb) 
 
