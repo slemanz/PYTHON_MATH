@@ -10,4 +10,8 @@ __Topics:__
     - [Bar Chart](JUPYTER_NOTEBOOKS/barchart.ipynb) 
 - [Describing Data with Statistics](JUPYTER_NOTEBOOKS/statistics.ipynb) 
 	- [Frequency Table](JUPYTER_NOTEBOOKS/frequency_table.ipynb) 
+    - [The Dispersion](JUPYTER_NOTEBOOKS/dispersion.ipynb) 
+    - [Calculating the Correlation](JUPYTER_NOTEBOOKS/correlation.ipynb) 
+    - [Scatter Plot](JUPYTER_NOTEBOOKS/scatter.ipynb) 
 
+- [Data from Files](DATA_FROM_FILES/README.md) 
