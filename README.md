@@ -15,3 +15,8 @@ __Topics:__
     - [Scatter Plot](JUPYTER_NOTEBOOKS/scatter.ipynb) 
 
 - [Data from Files](DATA_FROM_FILES/README.md) 
+
+- [Algebra and Symbolic Math with SymPy](JUPYTER_NOTEBOOKS_2/symbolic.ipynb) 
+    - [Factorizing and Expanding Expressions](JUPYTER_NOTEBOOKS_2/expanding.ipynb) 
+    - [Pretty Printing](JUPYTER_NOTEBOOKS_2/printing.ipynb) 
+    - [Substituting in Values](JUPYTER_NOTEBOOKS_2/substituing.ipynb) 
