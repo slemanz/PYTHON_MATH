@@ -24,5 +24,5 @@ __Topics:__
     - [Solving Equations](JUPYTER_NOTEBOOKS_2/equations.ipynb) 
 
 - [Sets](JUPYTER_NOTEBOOKS_3/sets.ipynb)
-    - [Sub, Super and Power Sets](other_sets.ipynb)
-    - [Set operations](set_operations.ipynb)
+    - [Sub, Super and Power Sets](JUPYTER_NOTEBOOKS_3/other_sets.ipynb)
+    - [Set operations](JUPYTER_NOTEBOOKS_3/set_operations.ipynb)
