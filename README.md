@@ -20,3 +20,9 @@ __Topics:__
     - [Factorizing and Expanding Expressions](JUPYTER_NOTEBOOKS_2/expanding.ipynb) 
     - [Pretty Printing](JUPYTER_NOTEBOOKS_2/printing.ipynb) 
     - [Substituting in Values](JUPYTER_NOTEBOOKS_2/substituing.ipynb) 
+    - [Converting Strings to Mathematical Expressions](JUPYTER_NOTEBOOKS_2/convert_strings.ipynb) 
+    - [Solving Equations](JUPYTER_NOTEBOOKS_2/equations.ipynb) 
+
+- [Sets](JUPYTER_NOTEBOOKS_3/sets.ipynb)
+    - [Sub, Super and Power Sets](other_sets.ipynb)
+    - [Set operations](set_operations.ipynb)
