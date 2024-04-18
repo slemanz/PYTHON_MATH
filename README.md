@@ -1,4 +1,6 @@
-# PYTHON_MATH
+# Python Basic Math
+
+This repository serves as a comprehensive guide to the basic of mathematics, implemented in Python. It covers a wide range of topics from basic arithmetic to more advanced concepts such as algebra, calculus, and statistics. 
 
 __Topics:__
 
@@ -26,3 +28,14 @@ __Topics:__
 - [Sets](JUPYTER_NOTEBOOKS_3/sets.ipynb)
     - [Sub, Super and Power Sets](JUPYTER_NOTEBOOKS_3/other_sets.ipynb)
     - [Set operations](JUPYTER_NOTEBOOKS_3/set_operations.ipynb)
+
+
+- [Probability](JUPYTER_NOTEBOOKS_3/probability.ipynb)
+    - [Generating Random Numbers](JUPYTER_NOTEBOOKS_3/random.ipynb)
+
+- [Calculus Problems](JUPYTER_NOTEBOOKS_4/calculus.ipynb)
+    - [Finding the Derivative](JUPYTER_NOTEBOOKS_4/derivative.ipynb)
+    - [Using Gradient Ascent](JUPYTER_NOTEBOOKS_4/gradient.ipynb)
+    - [Finding the Integrals](JUPYTER_NOTEBOOKS_4/integrals.ipynb)
+
+---
